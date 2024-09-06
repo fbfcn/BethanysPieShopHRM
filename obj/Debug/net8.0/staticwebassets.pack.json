@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\fbfcn\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BethanysPieShopHRM.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BethanysPieShopHRM.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\fbfcn\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\fbfcn\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fbfcn\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\wwwroot\\images\\bethanylogo.png",
+      "PackagePath": "staticwebassets\\images\\bethanylogo.png"
+    },
+    {
+      "Id": "C:\\Users\\fbfcn\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\wwwroot\\images\\pattern.png",
+      "PackagePath": "staticwebassets\\images\\pattern.png"
+    },
+    {
+      "Id": "C:\\Users\\fbfcn\\source\\repos\\BethanysPieShopHRM\\BethanysPieShopHRM\\wwwroot\\images\\profilePicture.jpg",
+      "PackagePath": "staticwebassets\\images\\profilePicture.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BethanysPieShopHRM.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BethanysPieShopHRM.props",
+      "PackagePath": "build\\BethanysPieShopHRM.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BethanysPieShopHRM.props",
+      "PackagePath": "buildMultiTargeting\\BethanysPieShopHRM.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BethanysPieShopHRM.props",
+      "PackagePath": "buildTransitive\\BethanysPieShopHRM.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
